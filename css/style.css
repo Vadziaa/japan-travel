@@ -941,3 +941,25 @@ img {
   background: #0e66da;
 }
 /* Top end*/
+
+/* Videos start*/
+.videos {
+  width: 100%;
+}
+.videos_wrapper {
+  max-width: 1440px;
+  margin: 0 auto;
+  position: relative;
+}
+.video_item {
+  padding-top: 56.25%;
+}
+.video_element {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Videos end*/
